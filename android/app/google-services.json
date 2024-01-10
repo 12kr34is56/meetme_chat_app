@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855816162969",
+    "project_id": "snapchat-9e350",
+    "storage_bucket": "snapchat-9e350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855816162969:android:711b26300566d4b5177208",
+        "android_client_info": {
+          "package_name": "krishna.com.snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855816162969-qg9e016o2sao1i7fn2cf3c2s8lejtulc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH21uOSwqNbY70VquCtNUaE5GR-tDZ26Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855816162969-qg9e016o2sao1i7fn2cf3c2s8lejtulc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
